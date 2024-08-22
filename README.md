@@ -1,2 +1,4 @@
-# BC-AL-Project-Test
-This is a test repository to deliver AL code projects via a public repository
+# Business Central AL Snippets
+Welcome all. I hope you find these snippets useful for your Business Central applications.
+
+Please take the itme to comment if you find any of these useful.
